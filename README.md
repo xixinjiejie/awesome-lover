@@ -41,9 +41,9 @@
 ### [上海](https://github.com/xixinjiejie/shanghai-programers "魔都上海") 
 ### [广州](https://github.com/xixinjiejie/guangzhou-programers "广州") 
 ### [深圳](https://github.com/xixinjiejie/shenzhen-programers "深圳") 
-### [杭州](https://github.com/xixinjiejie/hangzhou-programers "杭州") 
+### [杭州](https://github.com/xixinjiejie/hangzhou-programers "杭州") （1）
 ### [成都](https://github.com/xixinjiejie/chengdu-programers "成都") 
-### [南京](https://github.com/xixinjiejie/nanjing-programers "鸭都南京") 
+### [南京](https://github.com/xixinjiejie/nanjing-programers "鸭都南京") （1）
 ### [武汉](https://github.com/xixinjiejie/wuhan-programers "武汉") 
 ### [西安](https://github.com/xixinjiejie/xian-programers "西安") 
 ### [郑州](https://github.com/xixinjiejie/zhengzhou-programers "郑州") 
