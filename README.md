@@ -37,7 +37,7 @@
 
 
 ##  当前分区
-### [北京](https://github.com/xixinjiejie/beijing-programers "首都北京") 
+### [北京](https://github.com/xixinjiejie/beijing-programers "首都北京") （1）
 ### [上海](https://github.com/xixinjiejie/shanghai-programers "魔都上海") 
 ### [广州](https://github.com/xixinjiejie/guangzhou-programers "广州") 
 ### [深圳](https://github.com/xixinjiejie/shenzhen-programers "深圳") 
@@ -51,8 +51,10 @@
 ### [苏州](https://github.com/xixinjiejie/suzhou-programers "苏州") 
 ### [天津](https://github.com/xixinjiejie/tianjin-programers "天津") 
 ### [国内其他城市](https://github.com/xixinjiejie/others-programers "国内其他城市") 
-### [海外](https://github.com/xixinjiejie/overseas-programers "海外") 
+### [海外](https://github.com/xixinjiejie/overseas-programers "海外")
 
+## 各大城市微信群
+[各大城市微信群](./各大城市微信群.md "各大城市微信群")  
 ## 订阅
 * 服务号：大确幸  ，定期组织线下活动	
  
