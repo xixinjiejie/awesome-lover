@@ -40,7 +40,7 @@
 ### [北京](https://github.com/xixinjiejie/beijing-programers "首都北京") （1）
 ### [上海](https://github.com/xixinjiejie/shanghai-programers "魔都上海") 
 ### [广州](https://github.com/xixinjiejie/guangzhou-programers "广州") 
-### [深圳](https://github.com/xixinjiejie/shenzhen-programers "深圳") 
+### [深圳](https://github.com/xixinjiejie/shenzhen-programers "深圳") （1）
 ### [杭州](https://github.com/xixinjiejie/hangzhou-programers "杭州") （1）
 ### [成都](https://github.com/xixinjiejie/chengdu-programers "成都") 
 ### [南京](https://github.com/xixinjiejie/nanjing-programers "鸭都南京") （1）
