@@ -36,6 +36,10 @@
 	
 *  [199410-男-170-本科-南京.md](https://github.com/xixinjiejie/nanjing-programers/blob/master/boys/199410-%E7%94%B7-170-%E6%9C%AC%E7%A7%91-%E5%8D%97%E4%BA%AC.md)
 
+## 大确幸-全国社群一览
+[大确幸-全国社群一览](./大确幸-全国社群一览.md "大确幸-全国社群一览")  
+## 各大城市微信群
+[各大城市微信群](./各大城市微信群.md "各大城市微信群")  
 
 ##  当前分区
 ### [北京](https://github.com/xixinjiejie/beijing-programers "首都北京") （1）
@@ -54,8 +58,7 @@
 ### [国内其他城市](https://github.com/xixinjiejie/others-programers "国内其他城市") 
 ### [海外](https://github.com/xixinjiejie/overseas-programers "海外")
 
-## 各大城市微信群
-[各大城市微信群](./各大城市微信群.md "各大城市微信群")  
+
 ## 订阅
 * 服务号：大确幸  ，定期组织线下活动	
  
